@@ -1,0 +1,16 @@
+----------------------------------------------------------------
+Fri May 11 15:45:06 CST 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-0163-4e29-1947-00000e256280 
+on database directory D:\workspace\JDBC_Connect\__test_database_default with class loader org.powermock.core.classloader.MockClassLoader@16b3fc9e 
+Loaded from file:/D:/SamCho/.m2/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_112-b15
+user.dir=D:\workspace\JDBC_Connect
+os.name=Windows 10
+os.arch=amd64
+os.version=10.0
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
+----------------------------------------------------------------
+Fri May 11 15:45:09 CST 2018:
+Shutting down instance a816c00e-0163-4e29-1947-00000e256280 on database directory D:\workspace\JDBC_Connect\__test_database_default with class loader org.powermock.core.classloader.MockClassLoader@16b3fc9e 
